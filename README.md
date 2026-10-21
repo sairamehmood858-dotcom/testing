@@ -8,3 +8,4 @@ total = sum([num1, num2])
 
 # Print the result
 print(f"The sum is: {total}")
+...... updated
